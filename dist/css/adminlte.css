@@ -1,10 +1,4 @@
 /*!
- *   AdminLTE v3.2.0-rc
- *   Author: Colorlib
- *   Website: AdminLTE.io <https://adminlte.io>
- *   License: Open source - MIT <https://opensource.org/licenses/MIT>
- */
-/*!
  * Bootstrap v4.6.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
  * Copyright 2011-2021 Twitter, Inc.
@@ -18,7 +12,7 @@
   --red: #dc3545;
   --orange: #fd7e14;
   --yellow: #ffc107;
-  --green: #28a745;
+  --green: #8DC67A;
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
@@ -26,7 +20,7 @@
   --gray-dark: #343a40;
   --primary: #007bff;
   --secondary: #6c757d;
-  --success: #28a745;
+  --success: #8DC67A;
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
@@ -37,7 +31,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-sans-serif: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
@@ -48,7 +42,7 @@
 }
 
 html {
-  font-family: sans-serif;
+  font-family: 'Poppins', sans-serif!important;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -60,7 +54,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -6242,7 +6236,7 @@ a.close.disabled, a.disabled.mailbox-attachment-close {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -6355,7 +6349,7 @@ a.close.disabled, a.disabled.mailbox-attachment-close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -40035,7 +40029,7 @@ select.form-control-sm ~ .select2-container--default .select2-selection--multipl
 }
 
 .mapael .mapTooltip {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
